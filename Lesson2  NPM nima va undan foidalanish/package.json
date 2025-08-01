@@ -1,0 +1,22 @@
+{
+  "name": "webpack",
+  "version": "1.0.0",
+  "description": "bu mening npmdagi 1-loyiham",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Habibullo2003/Webpark-darslari.git"
+  },
+  "author": "Habibullo Xayrullayev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Habibullo2003/Webpark-darslari/issues"
+  },
+  "homepage": "https://github.com/Habibullo2003/Webpark-darslari#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.7"
+  }
+}
